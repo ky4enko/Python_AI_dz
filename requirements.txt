@@ -1,0 +1,14 @@
+# Роздаток пар 25–26: пневмонія (CNN, ResNet18) і розпізнавання тексту + NLTK
+# python -m venv .venv
+# .venv\Scripts\activate
+# python -m pip install -U pip
+# python -m pip install -r requirements.txt
+
+numpy>=1.26
+Pillow>=10.0
+torch>=2.2
+torchvision>=0.17
+certifi
+scikit-learn>=1.4    # метрики й GroupShuffleSplit у прикладах презентації 25
+pandas>=2.0          # таблиця пацієнтів у прикладі split по пацієнтах
+matplotlib>=3.8
