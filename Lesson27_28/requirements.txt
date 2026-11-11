@@ -1,0 +1,14 @@
+# Роздаток пар 27–28: корпуси, Word2Vec, GloVe
+# Python 3.10–3.14. На 3.14 gensim не ставиться — скрипти самі беруть word_vectors.py (numpy)
+# python -m venv .venv
+# .venv\Scripts\activate
+# python -m pip install -U pip
+# python -m pip install -r requirements.txt
+
+numpy>=1.26
+gensim>=4.3; python_version < "3.14"   # швидкий Word2Vec; на 3.14 замість нього numpy-версія
+scipy>=1.11          # кореляція в оцінці векторів
+nltk>=3.8            # корпуси й стоп-слова; дані вже в nltk_data/
+scikit-learn>=1.4    # PCA, LogisticRegression, TF-IDF
+matplotlib>=3.8      # графіки
+pandas>=2.0          # таблиці в прикладах презентацій
