@@ -1,0 +1,16 @@
+﻿user_id,book_id,title,authors,predicted_rating
+52965,3628,The Complete Calvin and Hobbes,Bill Watterson,4.532
+52965,8946,The Divan,Hafez,4.443
+52965,4868,Jesus the Christ,James E. Talmage,4.437
+52965,7947,ESV Study Bible,"Anonymous, Lane T. Dennis, Wayne A. Grudem",4.426
+52965,8978,The Revenge of the Baby-Sat,Bill Watterson,4.42
+35060,4483,It's a Magical World: A Calvin and Hobbes Collection,Bill Watterson,4.917
+35060,3628,The Complete Calvin and Hobbes,Bill Watterson,4.889
+35060,862,"Words of Radiance (The Stormlight Archive, #2)",Brandon Sanderson,4.862
+35060,6920,The Indispensable Calvin and Hobbes,Bill Watterson,4.853
+35060,4868,Jesus the Christ,James E. Talmage,4.852
+22720,3628,The Complete Calvin and Hobbes,Bill Watterson,5.0
+22720,6920,The Indispensable Calvin and Hobbes,Bill Watterson,4.874
+22720,8946,The Divan,Hafez,4.853
+22720,862,"Words of Radiance (The Stormlight Archive, #2)",Brandon Sanderson,4.85
+22720,8978,The Revenge of the Baby-Sat,Bill Watterson,4.85
